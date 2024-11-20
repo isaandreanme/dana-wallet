@@ -23,7 +23,7 @@ install_dependencies()
 console = Console()
 
 # Konfigurasi API
-BASE_URL = "https://dashboard.dana.id/api"
+BASE_URL = "https://dashboard.dana.id/app/"
 ENDPOINTS = {
     "request_otp": "/request-otp",
     "verify_otp": "/verify-otp",
